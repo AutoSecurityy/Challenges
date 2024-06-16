@@ -1,5 +1,5 @@
 # Kickstart to Automotive Cybersecurity - Quiz & Answers 
-AutoSecurityy Community: https://nas.io/autosecurityy
+Join the Community: [AutoSecurityy](https://nas.io/autosecurityy)
 ## Day 1
 It was introductary day to the basics of automotive 
 security.
