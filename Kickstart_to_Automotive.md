@@ -14,7 +14,7 @@ The day, we dove into the intricacies of the CAN bus and its security vulnerabil
 - What is ECU in a vehicle?
   - Electronic control unit or Embedded system in car that control one or more functionalities.
 - Which arbitration id does not have highest priority (0x13,0x123,0x7E8,0x111)?
-  - 0x13/0x013
+  - 0x7E8
 - How does a complete can frame look like?
   - 123#AABBCC00FFEE0000, including explaination of complete frame structure. 
 - Can you differentiate the DoS(Zero-ID)attack and firehose attack?
